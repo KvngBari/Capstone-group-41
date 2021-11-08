@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>capstone project</title>
+    <link rel="stylesheet" href="css/styles.css"
+</head>
+<body>
+
+  <img src="image/image-header-desktop.jpg">
+  
+  <div class="first">
+   Get Insights that help your business grow.
+ 
+   </div>
+   
+   <div class="second ">
+   Discover the benefits of data analytics and 
+   make better decisions regarding revenue, customer
+  experience and overall efficiency.<br>
+   10k+ COMPANIES 314 TEMPLATES 12m+  QUERIES 
+   </div>
+      <div>
+           <small > challenged by 
+       </div>
+      <div class="third"> <a   href="http://www.frontendmentor.io/home">frontendmentor</a> coded by <a href="jilly">jilly </a></small>
+      </div>
+</body>
+</html>
